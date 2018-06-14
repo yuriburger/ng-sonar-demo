@@ -1,5 +1,5 @@
 {
-    "extends": ["../tslint.json", "tslint-sonarts"],
+    "extends": ["../tslint.json"],
     "rules": {
         "directive-selector": [
             true,
